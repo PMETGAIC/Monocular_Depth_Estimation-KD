@@ -1,0 +1,2 @@
+epoch,step,teacher/val_loss,teacher/val_mae
+0,0,213773.609375,389.3919982910156
