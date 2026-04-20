@@ -1,0 +1,9 @@
+numpy
+torch
+torchvision
+pytorch-lightning
+datasets
+matplotlib
+pandas
+transformers
+timm==0.6.12
